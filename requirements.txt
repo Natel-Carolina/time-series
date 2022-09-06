@@ -4,7 +4,7 @@ tensorflow>2.5.0
 pytest
 requests~=2.25.1
 pyreadr~=0.4.2
-scikit-learn~=0.24.1
+scikit-learn~=1.0.0
 statsmodels~=0.12.2
 fastcache~=1.1.0
 tensorflow-addons
