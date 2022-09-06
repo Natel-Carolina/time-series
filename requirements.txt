@@ -1,5 +1,5 @@
 numpy>=1.19.0
-pandas~=1.2.4
+pandas~=1.4.2
 tensorflow>2.5.0
 pytest
 requests~=2.25.1
